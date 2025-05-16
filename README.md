@@ -4,7 +4,7 @@ Chatbot Project
 This is a chatbot created using Chatbase. The chatbot leverages advanced AI features to respond to users' queries efficiently and effectively.
 
 Demo
-You can interact with the chatbot through the following live link:
+You can interact with the chatbot through the following live link: https://www.chatbase.co/chatbot-iframe/wb7BfEUuM9uNXcsIWxAvI
 
 Live Chatbot
 
