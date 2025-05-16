@@ -24,4 +24,3 @@ HTML/CSS: Used for structuring and styling the web page that hosts the chatbot.
 
 JavaScript (if applicable): Can be used to enhance interactivity or extend functionality.
 
-https://www.chatbase.co/chatbot-iframe/wb7BfEUuM9uNXcsIWxAvI
